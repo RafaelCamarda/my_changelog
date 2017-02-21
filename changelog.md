@@ -1,0 +1,15 @@
+| Date | Category | Description |
+|------|----------|-------------|
+| 08/02/17 | ruby | [rbenv](https://github.com/rbenv/rbenv): Ruby version controller |
+| 08/02/17 | linux | [curl](https://www.linuxdescomplicado.com.br/2016/04/6-recursos-interessantes-oferecidos-pela-ferramenta-curl.html): command  to manipulate URLs and data transfer |
+| 09/02/17 | linux | [telnet](http://www.computerhope.com/unix/utelnet.htm): Comunication with hosts via termial |
+| 09/02/17 | ruby | Usage of config.yml to store configuration and default parameters over ruby/rails apps |
+| 09/02/17 | linux | [openssl](https://www.openssl.org/) Genetare CSR via command line |
+| 09/02/17 | ruby | Comand Enumerable.drop to remove n itens of a collection |
+| 10/02/17 | ruby | Comand String.tr Returns a copy of str with the characters in from_str replaced by the corresponding characters in to_stro remove n itens of a collection |
+| 10/02/17 | ruby | map: applies function over each element. reduce: applies function and accumulates the result |
+| 10/02/17 | linux | tail: command to display the last part of the file |
+| 13/02/17 | ruby | In Ruby/Rails is not convention to use Case or multiples ifs |
+| 15/02/17 | css | [Wildcard](http://www.surfingsuccess.com/css/css-wildcard-css-attribute-selector.html#.WKS4xSErKkA) CSS selector |
+| 15/02/17 | css | By default, the HTML body has 8px margin|
+| 16/02/17 | git | New git commands: git add -i, git diff, git rebase, git checkout . , etc|

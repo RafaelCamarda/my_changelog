@@ -13,3 +13,5 @@
 | 15/02/17 | css | [Wildcard](http://www.surfingsuccess.com/css/css-wildcard-css-attribute-selector.html#.WKS4xSErKkA) CSS selector |
 | 15/02/17 | css | By default, the HTML body has 8px margin|
 | 16/02/17 | git | New git commands: git add -i, git diff, git rebase, git checkout . , etc|
+| 20/02/17 | ruby | How to implement helpers and better understanding of RoR routes|
+| 21/02/17 | ruby | RoR Validations|

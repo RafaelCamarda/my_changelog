@@ -16,3 +16,4 @@
 | 20/02/17 | ruby | How to implement helpers and better understanding of RoR routes|
 | 21/02/17 | ruby | RoR Validations|
 | 21/02/17 | ruby | RoR Pluralization with inflections|
+| 22/02/17 | css | display, position and background-position proprieties|

@@ -22,3 +22,4 @@
 | 01/03/17 | git | Usage of squash to join commits|
 | 02/03/17 | ruby | RoR pretty urls and routes|
 | 02/03/17 | ruby | RoR Helpers are used in the views |
+| 02/03/17 | javascript | jQuery .find, $ selector and scrollToView() |

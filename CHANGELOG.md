@@ -20,3 +20,4 @@
 | 23/02/17 | css | Usage of !important|
 | 23/02/17 | html | contenteditable Input to allow modifications inside text|
 | 01/03/17 | git | Usage of squash to join commits|
+| 02/03/17 | ruby | RoR pretty urls and routes|

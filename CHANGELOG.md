@@ -26,3 +26,5 @@
 | 03/03/17 | ruby | RoR render to reuse the view |
 | 06/03/17 | ruby | RoR respond_to and respond_with |
 | 06/03/17 | ruby | RoR calculations |
+| 06/03/17 | ruby | RoR Active Record good pratice. Use .select to filter tables |
+

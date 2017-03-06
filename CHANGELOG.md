@@ -24,3 +24,4 @@
 | 02/03/17 | ruby | RoR Helpers are used in the views |
 | 02/03/17 | javascript | jQuery .find, $ selector and scrollToView() |
 | 03/03/17 | ruby | RoR render to reuse the view |
+| 06/03/17 | ruby | RoR respond_to and respond_with |

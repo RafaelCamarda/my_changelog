@@ -27,4 +27,5 @@
 | 06/03/17 | ruby | RoR respond_to and respond_with |
 | 06/03/17 | ruby | RoR calculations |
 | 06/03/17 | ruby | RoR Active Record good pratice. Use .select to filter tables |
+| 06/03/17 | ruby | RoR flash. Anything you place in the flash will be exposed to the very next action and then cleared out |
 

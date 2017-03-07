@@ -28,5 +28,6 @@
 | 06/03/17 | ruby | RoR calculations |
 | 06/03/17 | ruby | RoR Active Record good pratice. Use .select to filter tables |
 | 06/03/17 | ruby | RoR flash. Anything you place in the flash will be exposed to the very next action and then cleared out |
-| 06/03/17 | ruby | RoR tests with get, assert_response and assert_select |
-| 06/03/17 | css | property overflow to scroll |
+| 07/03/17 | ruby | RoR tests with get, assert_response and assert_select |
+| 07/03/17 | css | property overflow to scroll |
+| 07/03/17 | css | Nesting proprieties using Sass |

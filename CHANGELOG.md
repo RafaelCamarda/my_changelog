@@ -32,4 +32,7 @@
 | 07/03/17 | css | property overflow to scroll |
 | 07/03/17 | css | Nesting proprieties using Sass |
 | 07/03/17 | ruby | common convention of using the _path form except when doing redirects, where we’ll use the _url form. (This is because the HTTP standard technically requires a full URL after redirects, though in most browsers it will work either way.) |
+| 13/03/17 | ruby | when using Rails to model users we don’t need to identify the attributes explicitly |
+
+
 

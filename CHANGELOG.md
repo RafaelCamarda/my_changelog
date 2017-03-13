@@ -33,7 +33,7 @@
 | 07/03/17 | css | Nesting proprieties using Sass |
 | 07/03/17 | ruby | common convention of using the _path form except when doing redirects, where we’ll use the _url form. (This is because the HTTP standard technically requires a full URL after redirects, though in most browsers it will work either way.) |
 | 13/03/17 | ruby | when using Rails to model users we don’t need to identify the attributes explicitly |
-| 13/03/17 | regex| Good and simple (Regex)[https://www.railstutorial.org/book/modeling_users#code-email_format_validation_tests] explanation |
+| 13/03/17 | regex| Good and simple (https://www.railstutorial.org/book/modeling_users#code-email_format_validation_tests)[Regex] explanation |
 
 
 

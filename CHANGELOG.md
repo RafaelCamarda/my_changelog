@@ -36,6 +36,6 @@
 | 13/03/17 | regex | Good and simple [Regex](https://www.railstutorial.org/book/modeling_users#code-email_format_validation_tests) explanation |
 | 13/03/17 | regex | [Rubular](http://www.rubular.com/) a Ruby regular expression editor |
 | 14/03/17 | ruby | [Fixtures](http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html) are a way of organizing data that you want to test against; in short, sample data. |
-
-
+| 15/03/17 | git | [Amend](https://nathanhoad.net/git-amend-your-last-commit) the last commit|
+| 16/03/17 | soap | Making SOAP requests using Postman. [Link](http://blog.getpostman.com/2014/08/22/making-soap-requests-using-postman/) |
 

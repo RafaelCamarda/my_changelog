@@ -38,4 +38,5 @@
 | 14/03/17 | ruby | [Fixtures](http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html) are a way of organizing data that you want to test against; in short, sample data. |
 | 15/03/17 | git | [Amend](https://nathanhoad.net/git-amend-your-last-commit) the last commit|
 | 16/03/17 | soap | Making SOAP requests using Postman. [Link](http://blog.getpostman.com/2014/08/22/making-soap-requests-using-postman/) |
+| 20/03/17 | linux | How Linux [environment](https://www.cyberciti.biz/faq/set-environment-variable-linux/) works |
 

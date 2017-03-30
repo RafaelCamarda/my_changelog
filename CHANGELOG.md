@@ -40,3 +40,4 @@
 | 16/03/17 | soap | Making SOAP requests using Postman. [Link](http://blog.getpostman.com/2014/08/22/making-soap-requests-using-postman/) |
 | 20/03/17 | linux | How Linux [environment](https://www.cyberciti.biz/faq/set-environment-variable-linux/) works |
 | 29/03/17 | ruby | [Webmock](https://github.com/bblimke/webmock) Library for stubbing and setting expectations on HTTP requests in Ruby.|
+| 30/03/17 | ruby | [Capybara]https://github.com/teamcapybara/capybara#drivers) Acceptance test framework for web applications.|

@@ -41,3 +41,4 @@
 | 20/03/17 | linux | How Linux [environment](https://www.cyberciti.biz/faq/set-environment-variable-linux/) works |
 | 29/03/17 | ruby | [Webmock](https://github.com/bblimke/webmock) Library for stubbing and setting expectations on HTTP requests in Ruby.|
 | 30/03/17 | ruby | [Capybara](https://github.com/teamcapybara/capybara#drivers) Acceptance test framework for web applications.|
+| 30/03/17 | ruby | [Injecting](http://augustl.com/blog/2008/procs_blocks_and_anonymous_functions/) code with proc and lambda functions|

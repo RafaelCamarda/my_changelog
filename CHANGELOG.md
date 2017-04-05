@@ -44,3 +44,4 @@
 | 30/03/17 | ruby | [Injecting](http://augustl.com/blog/2008/procs_blocks_and_anonymous_functions/) code with proc and lambda functions|
 | 30/03/17 | ruby | [&](http://stackoverflow.com/questions/9429819/what-is-the-functionality-of-operator-in-ruby) operator takes its operand, converts it to a Proc objec and passes it to the method as if a block had been used |
 | 30/03/17 | ruby | [Spaceship](http://stackoverflow.com/questions/827649/what-is-the-ruby-spaceship-operator) operator "<=>" that implements comparable interface|
+| 05/04/17 | javascript | jQuery [$.proxy()](https://www.w3schools.com/jquery/event_proxy.asp) Method |

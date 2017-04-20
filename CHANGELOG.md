@@ -45,3 +45,6 @@
 | 30/03/17 | ruby | [&](http://stackoverflow.com/questions/9429819/what-is-the-functionality-of-operator-in-ruby) operator takes its operand, converts it to a Proc objec and passes it to the method as if a block had been used |
 | 30/03/17 | ruby | [Spaceship](http://stackoverflow.com/questions/827649/what-is-the-ruby-spaceship-operator) operator "<=>" that implements comparable interface|
 | 05/04/17 | javascript | jQuery [$.proxy()](https://www.w3schools.com/jquery/event_proxy.asp) Method |
+| 19/04/17 | ruby | rspec [guidelines](http://betterspecs.org/br/) |
+| 20/04/17 | ruby | In a link_to use remote: true to do an Ajax request. |
+

@@ -47,4 +47,4 @@
 | 05/04/17 | javascript | jQuery [$.proxy()](https://www.w3schools.com/jquery/event_proxy.asp) Method |
 | 19/04/17 | ruby | rspec [guidelines](http://betterspecs.org/br/) |
 | 20/04/17 | ruby | In a link_to use remote: true to do an Ajax request. |
-
+| 20/04/17 | ruby | rspec [expectations](https://www.relishapp.com/rspec/rspec-expectations/docs/built-in-matchers). |
